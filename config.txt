@@ -1,0 +1,3 @@
+name = Georgi
+Size = 3
+email = jesh1@abv.bg
