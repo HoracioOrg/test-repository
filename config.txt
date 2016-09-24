@@ -1,0 +1,3 @@
+name = Gosho
+Size = 5
+email = jesh2@abv.bg
